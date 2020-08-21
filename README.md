@@ -1,6 +1,10 @@
 # OTOC
 Out-of-time-ordered-correlators for the anharmonic (quartic) quantum oscillator
 
+Copyright is granted as long as you cite the original reference:
+
+https://arxiv.org/pdf/2008.06056.pdf
+
 Create directories "matrices" and "results"
 
 Use "compile.sh" to compile the three executables (gen_mat, evs, and otoc)
